@@ -1,1 +1,0 @@
-This file is going to be deleted soon, this is just for practice to help me learn how to delte files via git bash!
